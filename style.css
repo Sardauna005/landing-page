@@ -149,14 +149,14 @@ a:hover {
   flex: 0 1 1;
 }
 .quote {
-  align-self: center;
+  text-align: right;
   margin: 0px 0px 20px 0px;
   font-size: 36px;
   color: #1f2937;
   text-transform: capitalize;
 }
 .cite {
-  align-self: flex-end;
+  text-align: right;
   color: black;
   font-weight: bolder;
   font-size: 18px;
